@@ -1,0 +1,12 @@
+.wishlist-icon{
+-fx-text-fill: #fff;
+-fx-background-color: transparent;
+}
+.wishlist-icon .glyph-icon{-fx-fill: red;}
+.not-wishlist-icon .glyph-icon{-fx-fill: black;}
+
+.cart-icon{
+-fx-text-fill: #fff;
+-fx-background-color: transparent;
+}
+.cart-icon .glyph-icon{-fx-fill: black;}
